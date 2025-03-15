@@ -1,10 +1,20 @@
 # Short-Portfolio
-Website made using HTML and CSS only. 
+The Short Portfolio website is a personal portfolio landing page that showcases the creator’s skills, projects, and contact details in a visually appealing manner. It is designed to give visitors a quick overview of the person's expertise and work.
 
-🔹 Key Features:
+# 🔹 Features:
 
-✔️ Modern & Minimalist Design
+✔️Introduction Section: Briefly introduces the portfolio owner.
 
-✔️ Showcasing Web Development Skills
+✔️Skills & Services Section: Highlights technical skills and services offered.
 
-✔️ Integrated Contact & Social Links
+✔️Projects Showcase: Displays work samples or links to projects.
+
+✔️Contact Section: Provides ways to reach out (email, social links, etc.).
+
+# Technical Overview (Behind the Scenes):
+
+Built with HTML, CSS, and Bootstrap for a clean and responsive layout.
+
+FontAwesome Icons & Google Fonts for modern typography and icons.
+
+
