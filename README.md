@@ -13,7 +13,7 @@ The Short Portfolio website is a personal portfolio landing page that showcases 
 
 # Technical Overview (Behind the Scenes):
 
-Built with HTML, CSS, and Bootstrap for a clean and responsive layout.
+Built with HTML and CSS for a simple and clean layout.
 
 FontAwesome Icons & Google Fonts for modern typography and icons.
 
