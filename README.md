@@ -1,5 +1,5 @@
 # Short-Portfolio
-Website made using HTML and CSS only
+Website made using HTML and CSS only. 
 🔹 Key Features:
 ✔️ Modern & Minimalist Design
 ✔️ Showcasing Web Development Skills
