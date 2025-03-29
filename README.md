@@ -1,7 +1,7 @@
 # Short-Portfolio
 The Short Portfolio website is a personal portfolio landing page that showcases the creator’s skills, projects, and contact details in a visually appealing manner. It is designed to give visitors a quick overview of the person's expertise and work.
 
-# 🔹 Features:
+# Features:
 
 ✔️Introduction Section: Briefly introduces the portfolio owner.
 
