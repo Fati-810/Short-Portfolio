@@ -11,7 +11,7 @@ The Short Portfolio website is a personal portfolio landing page that showcases 
 
 ✔️Contact Section: Provides ways to reach out (email, social links, etc.).
 
-# Technical Overview (Behind the Scenes):
+# Technical Overview:(Behind the Scenes)
 
 Built with HTML and CSS for a simple and clean layout.
 
