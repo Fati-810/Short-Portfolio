@@ -5,9 +5,7 @@ The Short Portfolio website is a personal portfolio landing page that showcases 
 
 ✔️Introduction Section: Briefly introduces the portfolio owner.
 
-✔️Skills & Services Section: Highlights technical skills and services offered.
-
-✔️Projects Showcase: Displays work samples or links to projects.
+✔️Skills & Services Section: Highlights skills.
 
 ✔️Contact Section: Provides ways to reach out (email, social links, etc.).
 
@@ -17,4 +15,6 @@ Built with HTML and CSS for a simple and clean layout.
 
 FontAwesome Icons & Google Fonts for modern typography and icons.
 
+# Link:
+https://fati-810.github.io/Short-Portfolio/
 
