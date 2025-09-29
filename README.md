@@ -3,11 +3,11 @@ The Short Portfolio website is a personal portfolio **landing page** that showca
 
 # Features:
 
-👋 IIntroduction Section: Briefly introduces the portfolio owner.
+👋 Introduction Section: Briefly introduces the portfolio owner.
 
-💻Skills Section: Highlights skills.
+💻 Skills Section: Highlights skills.
 
-📩Contact Section: Provides ways to reach out (email, social links, etc.).
+📩 Contact Section: Provides ways to reach out (email, social links, etc.).
 
 # Technical Overview:(Behind the Scenes)
 
