@@ -9,7 +9,7 @@ The Short Portfolio website is a personal portfolio **landing page** that showca
 
 📩 Contact Section: Provides ways to reach out (email, social links, etc.).
 
-## Technical Overview:(Behind the Scenes)
+## Technical Overview: (Behind the Scenes)
 
 Built with HTML and CSS for a simple and clean layout.
 
@@ -22,9 +22,10 @@ https://fati-810.github.io/Short-Portfolio/
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
-Developer: Fatimah Ali
-Website: fatimahdigitaledge.com
-GitHub: github.com/fati-810
+
+**Developer:** *Fatimah Ali*  
+**Website:** fatimahdigitaledge.com  
+**GitHub:** github.com/fati-810
 
 ## License:
 This project is for educational and portfolio purposes.
